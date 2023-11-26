@@ -1,0 +1,14 @@
+{
+    "en":{
+        "greet":"good morning",
+        "message":"nice to meet you <studentcount>"
+    },
+    "hi":{
+        "greet":"शुभ प्रभात",
+        "message":"आपसे मिलकर अच्छा लगा <studentcount>"
+    },
+    "mar":{
+        "greet":"चांगले सकाळी",
+        "message":"तुम्हाला भेटून आनंद झाला <studentcount>" 
+    }
+}
