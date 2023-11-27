@@ -1,14 +1,36 @@
 {
     "en":{
         "greet":"good morning",
-        "message":"nice to meet you <studentcount>"
+        "message":"nice to meet you <studentcount>",
+        "topic":"Internationalization",
+        "paraone":"Internationalization describes the process of designing products to meet the needs of users in many countries or designing them so they can be easily modified, to achieve this goal. Internationalization might mean designing a website so that when it's translated from English to Spanish, the aesthetic layout still works properly. This may be difficult to achieve because many words in Spanish have more characters than their English counterparts. They may thus take up more space on the page in Spanish than in English.",
+        "paratwo":"In the context of economics, internationalization can refer to a company that takes steps to increase its footprint or capture greater market share outside of its country of domicile by branching out into international markets. The global corporate trend toward internationalization has helped push the world economy into a state of globalization, in which economies throughout the world become highly interconnected due to cross-border commerce and finance. As such, they are greatly impacted by each others' national activities and economic well-being. ",
+        "heading":"key takeway",
+        "keyone":"Internationalization describes designing a product in a way that it may be readily consumed across multiple countries.",
+        "keytwo":"This process is used by companies looking to expand their global footprint beyond their own domestic market understanding consumers abroad may have different tastes or habits.",
+        "keythree":"Internationalization often requires modifying products to conform to the technical or cultural needs of a given country, such as creating plugs suitable for different types of electrical outlets."
+
     },
     "hi":{
         "greet":"शुभ प्रभात",
-        "message":"आपसे मिलकर अच्छा लगा <studentcount>"
+        "message":"आपसे मिलकर अच्छा लगा <studentcount>",
+        "topic":"अंतर्राष्ट्रीयकरण",
+        "paraone":"अंतर्राष्ट्रीयकरण कई देशों में उपयोगकर्ताओं की जरूरतों को पूरा करने के लिए उत्पादों को डिजाइन करने या उन्हें डिजाइन करने की प्रक्रिया का वर्णन करता है ताकि इस लक्ष्य को प्राप्त करने के लिए उन्हें आसानी से संशोधित किया जा सके। अंतर्राष्ट्रीयकरण का मतलब एक वेबसाइट को डिज़ाइन करना हो सकता है ताकि जब इसका अंग्रेजी से स्पेनिश में अनुवाद किया जाए, तो सौंदर्य लेआउट अभी भी ठीक से काम कर सके। इसे हासिल करना मुश्किल हो सकता है क्योंकि स्पैनिश में कई शब्दों में उनके अंग्रेजी समकक्षों की तुलना में अधिक अक्षर हैं। इस प्रकार वे अंग्रेजी की तुलना में स्पेनिश में पृष्ठ पर अधिक स्थान ले सकते हैं।",
+        "paratwo":"अर्थशास्त्र के संदर्भ में, अंतर्राष्ट्रीयकरण एक ऐसी कंपनी को संदर्भित कर सकता है जो अंतरराष्ट्रीय बाजारों में शाखा लगाकर अपने अधिवास वाले देश के बाहर अपने पदचिह्न को बढ़ाने या अधिक बाजार हिस्सेदारी हासिल करने के लिए कदम उठाती है। अंतर्राष्ट्रीयकरण की ओर वैश्विक कॉर्पोरेट रुझान ने विश्व अर्थव्यवस्था को वैश्वीकरण की स्थिति में धकेलने में मदद की है, जिसमें सीमा पार वाणिज्य और वित्त के कारण दुनिया भर की अर्थव्यवस्थाएं अत्यधिक परस्पर जुड़ी हुई हैं। इस प्रकार, वे एक-दूसरे की राष्ट्रीय गतिविधियों और आर्थिक कल्याण से बहुत प्रभावित होते हैं।",
+        "heading":"महत्वपूर्ण बिंदु",
+        "keyone":"अंतर्राष्ट्रीयकरण किसी उत्पाद को इस तरह से डिजाइन करने का वर्णन करता है कि इसे कई देशों में आसानी से उपभोग किया जा सके।",
+        "keytwo":"इस प्रक्रिया का उपयोग उन कंपनियों द्वारा किया जाता है जो अपने घरेलू बाजार से परे अपने वैश्विक पदचिह्न का विस्तार करना चाहती हैं, यह समझकर कि विदेशों में उपभोक्ताओं के स्वाद या आदतें अलग हो सकती हैं।",
+        "keythree":"अंतर्राष्ट्रीयकरण के लिए अक्सर किसी देश की तकनीकी या सांस्कृतिक आवश्यकताओं के अनुरूप उत्पादों को संशोधित करने की आवश्यकता होती है, जैसे विभिन्न प्रकार के विद्युत आउटलेट के लिए उपयुक्त प्लग बनाना।"
     },
     "mar":{
         "greet":"चांगले सकाळी",
-        "message":"तुम्हाला भेटून आनंद झाला <studentcount>" 
+        "message":"तुम्हाला भेटून आनंद झाला <studentcount>" ,
+        "topic":"आंतरराष्ट्रीयीकरण",
+        "paraone":"आंतरराष्ट्रीयीकरण अनेक देशांतील वापरकर्त्यांच्या गरजा पूर्ण करण्यासाठी उत्पादने डिझाइन करण्याच्या प्रक्रियेचे वर्णन करते किंवा हे उद्दिष्ट साध्य करण्यासाठी ते सहजपणे सुधारले जाऊ शकतात म्हणून ते डिझाइन करतात. आंतरराष्‍ट्रीयीकरणाचा अर्थ वेबसाइट डिझाईन करण्‍याचा असू शकतो जेणेकरून ती इंग्रजीतून स्पॅनिशमध्‍ये भाषांतरित केल्‍यावर, सौंदर्याचा लेआउट अजूनही नीट कार्य करते. हे साध्य करणे कठीण असू शकते कारण स्पॅनिशमधील अनेक शब्दांना त्यांच्या इंग्रजी समकक्षांपेक्षा जास्त वर्ण आहेत. त्यामुळे ते इंग्रजीपेक्षा स्पॅनिशमध्ये पृष्ठावर अधिक जागा घेऊ शकतात.",
+        "paratwo":"अर्थशास्त्राच्या संदर्भात, आंतरराष्‍ट्रीयीकरण अशा कंपनीचा संदर्भ घेऊ शकते जी तिचा पदचिन्ह वाढवण्‍यासाठी पावले उचलते किंवा आंतरराष्‍ट्रीय बाजारपेठेत शाखा करून देशाच्‍या बाहेरील बाजाराचा मोठा हिस्सा मिळवते. आंतरराष्ट्रीयीकरणाच्या दिशेने जागतिक कॉर्पोरेट प्रवृत्तीने जागतिक अर्थव्यवस्थेला जागतिकीकरणाच्या स्थितीत ढकलण्यात मदत केली आहे, ज्यामध्ये संपूर्ण जगभरातील अर्थव्यवस्था सीमापार वाणिज्य आणि वित्त यांमुळे एकमेकांशी जोडलेल्या आहेत. यामुळे, ते एकमेकांच्या राष्ट्रीय क्रियाकलापांवर आणि आर्थिक कल्याणावर खूप प्रभाव पाडतात.",
+        "heading":"महत्वाचे मुद्दे",
+        "keyone":"आंतरराष्‍ट्रीयीकरण एखादे उत्‍पादन अशा प्रकारे डिझाईन करण्‍याचे वर्णन करते की ते अनेक देशांमध्‍ये सहज वापरता येईल..",
+        "keytwo":"या प्रक्रियेचा वापर त्यांच्या स्वत:च्या देशांतर्गत बाजाराच्या पलीकडे त्यांच्या जागतिक स्तरावर विस्तार करू पाहणार्‍या कंपन्यांद्वारे केला जातो की परदेशातील ग्राहकांच्या आवडी किंवा सवयी वेगळ्या असू शकतात.",
+        "keythree":"आंतरराष्ट्रीयीकरणासाठी अनेकदा दिलेल्या देशाच्या तांत्रिक किंवा सांस्कृतिक गरजा पूर्ण करण्यासाठी उत्पादनांमध्ये बदल करणे आवश्यक असते, जसे की विविध प्रकारच्या इलेक्ट्रिकल आउटलेटसाठी योग्य प्लग तयार करणे."
     }
 }
